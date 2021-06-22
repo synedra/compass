@@ -60,5 +60,10 @@
   },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "mongodb-query-parser": "^2.4.2",
+    "node": "^12.22.1",
+    "npm": "^7.18.1"
+  }
 }
